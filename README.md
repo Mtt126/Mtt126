@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @Mtt126
 - 
 - 👀 I’m interested in ...
-- Game Dev
-- 3d printing
+- Game Dev 
+- 3d printing 
  
 - 🌱 I’m currently working on ...
-- Alreath - Dynamic MMO 
-- TimeWatcher
-- Rogue Towers
+- Alreath - Dynamic MMO ⚔
+- TimeWatcher 🕑
+- Rogue Towers 🏹
 - Building out my library of programs and code base
 
 - 📫 How to reach me ...
