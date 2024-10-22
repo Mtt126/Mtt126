@@ -7,7 +7,7 @@
 - 🌱 I’m currently working on ...
 - Alreath - Dynamic MMO ⚔
 - TimeWatcher 🕑
-- Rogue Towers 🏹
+
 - Building out my library of programs and code base
 
 - 📫 How to reach me ...
